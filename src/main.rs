@@ -4,4 +4,5 @@ fn main() {
     
     // 可以添加一些额外信息
     println!("This is a static Hello World program developed with Rust.");
+    println!("This is a static Hello World program feature with Rust.");
 }
